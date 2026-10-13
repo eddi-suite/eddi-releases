@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "release_info": {
+    "apps": {
+      "eddicut": {
+        "name": "Eddi Cut",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": {
+          "tag": "eddicut-v0.6.0",
+          "version": "0.6.0",
+          "name": "Eddi Cut 0.6.0",
+          "published_at": "2026-10-13T10:54:17Z",
+          "html_url": "https://github.com/eddi-suite/eddi-releases/releases/tag/eddicut-v0.6.0",
+          "prerelease": false,
+          "notes_markdown": "Eddi Cut 0.6.0.\n\nInstalla e aggiorna con Eddi Hub. Codici sha256 in SHA256SUMS.txt.",
+          "assets": [
+            {
+              "name": "eddicut-0.6.0-windows-x64-portable.zip",
+              "size_bytes": 41508376,
+              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddicut-v0.6.0/eddicut-0.6.0-windows-x64-portable.zip",
+              "sha256": "b5cd72599e0d3ce403d4dec1c638af2254c1d398792daec0c788de35fd9f70ee"
+            },
+            {
+              "name": "eddicut-0.6.0-windows-x64.msi",
+              "size_bytes": 32677888,
+              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddicut-v0.6.0/eddicut-0.6.0-windows-x64.msi",
+              "sha256": "7cc1113d420c15d8af624dd17b241c4f208b2d521db4e80564cb90d54a19cbdb"
+            }
+          ]
+        },
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddipixel": {
+        "name": "Eddi Pixel",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddivector": {
+        "name": "Eddi Vector",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddifoto": {
+        "name": "Eddi Foto",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddimotion": {
+        "name": "Eddi Motion",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddidoc": {
+        "name": "Eddi Doc",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      },
+      "eddihub": {
+        "name": "Eddi Hub",
+        "repo": "eddi-suite/eddi-releases",
+        "latest_release": null,
+        "app_last_fetched": "2026-10-13T10:54:31Z"
+      }
+    },
+    "last_fetched": "2026-10-13T10:54:31Z"
+  },
+  "app_renames": [],
+  "repo_renames": [],
+  "important_notices": {
+    "announcements": [],
+    "alerts": []
+  }
+}
