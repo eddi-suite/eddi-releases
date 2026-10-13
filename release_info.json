@@ -28,37 +28,37 @@
             }
           ]
         },
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddipixel": {
         "name": "Eddi Pixel",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddivector": {
         "name": "Eddi Vector",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddifoto": {
         "name": "Eddi Foto",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddimotion": {
         "name": "Eddi Motion",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddidoc": {
         "name": "Eddi Doc",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       },
       "eddihub": {
         "name": "Eddi Hub",
@@ -86,10 +86,10 @@
             }
           ]
         },
-        "app_last_fetched": "2026-10-13T10:54:56Z"
+        "app_last_fetched": "2026-10-13T11:36:33Z"
       }
     },
-    "last_fetched": "2026-10-13T10:54:56Z"
+    "last_fetched": "2026-10-13T11:36:33Z"
   },
   "app_renames": [],
   "repo_renames": [],
