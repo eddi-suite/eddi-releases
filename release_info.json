@@ -28,68 +28,68 @@
             }
           ]
         },
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddipixel": {
         "name": "Eddi Pixel",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddivector": {
         "name": "Eddi Vector",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddifoto": {
         "name": "Eddi Foto",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddimotion": {
         "name": "Eddi Motion",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddidoc": {
         "name": "Eddi Doc",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": null,
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       },
       "eddihub": {
         "name": "Eddi Hub",
         "repo": "eddi-suite/eddi-releases",
         "latest_release": {
-          "tag": "eddihub-v0.4.0",
-          "version": "0.4.0",
-          "name": "Eddi Hub 0.4.0",
-          "published_at": "2026-10-13T11:41:54Z",
-          "html_url": "https://github.com/eddi-suite/eddi-releases/releases/tag/eddihub-v0.4.0",
+          "tag": "eddihub-v0.4.1",
+          "version": "0.4.1",
+          "name": "Eddi Hub 0.4.1",
+          "published_at": "2026-10-13T11:58:24Z",
+          "html_url": "https://github.com/eddi-suite/eddi-releases/releases/tag/eddihub-v0.4.1",
           "prerelease": false,
-          "notes_markdown": "Eddi Hub 0.4.0.\n\nInstalla e aggiorna con Eddi Hub. Codici sha256 in SHA256SUMS.txt.",
+          "notes_markdown": "Eddi Hub 0.4.1.\n\nInstalla e aggiorna con Eddi Hub. Codici sha256 in SHA256SUMS.txt.",
           "assets": [
             {
-              "name": "eddihub-0.4.0-windows-x64-portable.zip",
-              "size_bytes": 9387282,
-              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddihub-v0.4.0/eddihub-0.4.0-windows-x64-portable.zip",
-              "sha256": "097a56e2eae9c45154b71969f9991e8aa24906b8d8f84a7c7ad22fbd40f836c5"
+              "name": "eddihub-0.4.1-windows-x64-portable.zip",
+              "size_bytes": 9388660,
+              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddihub-v0.4.1/eddihub-0.4.1-windows-x64-portable.zip",
+              "sha256": "0af6b9e9397bf57089c1c184c45845e7ab8af018f9ff65834322574f5b83f763"
             },
             {
-              "name": "eddihub-0.4.0-windows-x64.msi",
-              "size_bytes": 8896512,
-              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddihub-v0.4.0/eddihub-0.4.0-windows-x64.msi",
-              "sha256": "468782cad85fe4d271c4b6524a4adbbc7ab9e24871fbe06ffff49ce61409e6fd"
+              "name": "eddihub-0.4.1-windows-x64.msi",
+              "size_bytes": 8900608,
+              "download_url": "https://github.com/eddi-suite/eddi-releases/releases/download/eddihub-v0.4.1/eddihub-0.4.1-windows-x64.msi",
+              "sha256": "5b7f1e43b0eccb5835027a6f5288f56ec93dab5a8a2d89ff98b174de433c0d28"
             }
           ]
         },
-        "app_last_fetched": "2026-10-13T11:41:55Z"
+        "app_last_fetched": "2026-10-13T11:58:25Z"
       }
     },
-    "last_fetched": "2026-10-13T11:41:55Z"
+    "last_fetched": "2026-10-13T11:58:25Z"
   },
   "app_renames": [],
   "repo_renames": [],
